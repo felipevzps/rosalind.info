@@ -1,6 +1,10 @@
 # rosalind.info
 
-# Português :brazil:
+:brazil: Aprendendo bioinformática através da resolução de exercícios da plataforma Rosalind!
+
+:us: Learning bioinformatics by solving exercises on Rosalind platform!
+
+# :brazil: Sobre
 Esse repositório armazena as minhas soluções em Python para os exercícios da plataforma rosalind.info!
 
 Acompanhe a série **Aprendendo Bioinformática com a Rosalind** no YouTube: https://www.youtube.com/ 
@@ -14,7 +18,7 @@ Nesta série eu registro o meu desenvolvimento com Python e também tento ajudar
 
 **Bioinformatics Armory**: Hospeda algoritmos em que utilizaremos ferramentas de bioinformática para resolver os exercícios disponíveis na plataforma (exercícios semelhantes aos encontrados na Bioinformatics Stronghold).    
 
-# English :us:
+# :us: About 
 This repository hosts my Python solutions to the rosalind.info problems!
 
 Enjoy my videos about **Learning Bioinformatics with Rosalind** on my YouTube channel: https://www.youtube.com/
