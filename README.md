@@ -1,9 +1,3 @@
-# rosalind.info
-
-:brazil: Aprendendo bioinformática através da resolução de exercícios da plataforma Rosalind!
-
-:us: Learning bioinformatics by solving exercises on Rosalind platform!
-
 # :brazil: Sobre
 Esse repositório armazena as minhas soluções em Python para os exercícios da plataforma rosalind.info!
 
