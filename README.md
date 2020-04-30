@@ -3,7 +3,7 @@ Esse repositório armazena as minhas soluções em Python para os exercícios da
 
 Acompanhe a série **Aprendendo Bioinformática com a Rosalind** no YouTube: https://www.youtube.com/ 
 
-Nesta série eu registro o meu desenvolvimento com Python e também tento ajudar pessoas interessadas na área da Bioinformática. 
+Nesta série eu compartilho o meu aprenzidado com Python e para ajudar pessoas interessadas na área da Bioinformática. 
 
 ### Descrição dos diretórios
 **Python Village**: Armazena códigos com a resolução de problemas iniciais para aprender algumas noções básicas sobre Python.
