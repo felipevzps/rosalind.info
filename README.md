@@ -1,3 +1,7 @@
+![rosalind](/images/logo.png)
+
+http://rosalind.info
+
 ### About 
 This repository hosts my Python solutions for rosalind.info problems!
 
