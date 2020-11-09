@@ -1,16 +1,16 @@
-#criar números de a até b
-#criar loop pra checar se número é impar
-#armazenar primeiro impar em c
-#somar próximo impar com c
+#create a to b numbers
+#check if is odd
+#storage first odd in c
+#add next odd to c
 
-dataset_impar=open('/home/felipe/Downloads/rosalind_ini4.txt','r')
-dataset_numeros=dataset_impar.read()
-dataset_numeros_inteiros=dataset_numeros.split()
-print(dataset_numeros)
+dataset_odd=open('/home/felipe/Downloads/rosalind_ini4.txt','r')
+dataset_numbers=dataset_odd.read()
+dataset_numbers_integers=dataset_numbers.split()
+print(dataset_numbers)
 
-#Precisa somar +1 no último número do slice pelo mesmo motivo anterior
-h=int(dataset_numeros_inteiros[0])
-j=int(dataset_numeros_inteiros[1])+1
+#need to add +1 to get the complete word
+h=int(dataset_numbers_integers[0])
+j=int(dataset_numbers_integers[1])+1
 
 print(h,j)
 sum = 0

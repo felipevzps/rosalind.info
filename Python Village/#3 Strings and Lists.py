@@ -1,13 +1,13 @@
-texto=open('/home/felipe/Downloads/rosalind_ini3.txt','r')
-#dividir as linhas em diferentes strings
-dataset=texto.readlines()
-#chamar a segunda string [1]
+text=open('/home/felipe/Downloads/rosalind_ini3.txt','r')
+#read lines
+dataset=text.readlines()
+#call second line [1]
 print(dataset[1])
-#dividir números da lista (segunda linha)
+#split into 2 lines
 numeros=dataset[1].split()
 print(numeros)
 
-#Precisa somar +1 no último número do slice pra pegar a palavra completa
+#need to add +1 to get the complete word
 d=int(numeros[0])
 e=int(numeros[1])+1
 f=int(numeros[2])

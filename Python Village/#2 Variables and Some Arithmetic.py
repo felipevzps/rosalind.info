@@ -9,7 +9,7 @@ b = int(splited[1])
 print(a)
 print(b)
 
-#Pitágoras -> C²=A²+B²
+#Pythagorean theorem -> C²=A²+B²
 c=b*b+a*a
 
-print('O inteiro correspondente ao quadrado da hipotenusa do triângulo retângulo de AB é:',c)
+print('The integer corresponding to the square of the hypotenuse is:',c)
