@@ -3,6 +3,11 @@
 ### About 
 This repository hosts my Python solutions for [rosalind.info](http://rosalind.info) problems!
 
+### Contact
+Rosalind profile: http://rosalind.info/users/felipe.vzps/
+
+E-mail: felipe.vzps@gmail.com
+
 ### Directory Description
 **Python Village**: Stores codes with initial troubleshooting to learn some Python basics.
 
