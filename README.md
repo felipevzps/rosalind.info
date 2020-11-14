@@ -26,7 +26,7 @@ E-mail: felipe.vzps@gmail.com
 - [x] [#4 Computing GC Content.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%234%20Computing%20GC%20Content.py)
 - [x] [#5 Counting Point Mutations.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%235%20Counting%20Point%20Mutations.py)
 - [x] [#6 Translating RNA into Protein.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%236%20Translating%20RNA%20into%20Protein.py)
-- [x] #7 Rabbits and Recurrence Relations.py
+- [x] [#7 Rabbits and Recurrence Relations.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%237%20Finding%20a%20Motif%20in%20DNA.py)
 - [ ] #8 Mendel's First Law.py
 - [ ] #9 Finding a Motif in DNA.py
 - [ ] #10 Inferring mRNA from Protein.py
