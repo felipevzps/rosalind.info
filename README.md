@@ -30,7 +30,7 @@ E-mail: felipe.vzps@gmail.com
 - [ ] #8 Mendel's First Law.py
 - [ ] #9 Finding a Motif in DNA.py
 - [ ] #10 Inferring mRNA from Protein.py
-- [ ] #11 Enumerating Gene Orders.py
+- [x] [#11 Enumerating Gene Orders.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2311%20Enumerating%20Gene%20Orders.py)
 - [ ] #12 Calculating Protein Mass.py
 - [ ] More solutions coming soon!
 
