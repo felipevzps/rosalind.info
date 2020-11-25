@@ -36,7 +36,7 @@ E-mail: felipe.vzps@gmail.com
 
 **Bioinformatics Armory**: Hosts algorithms which I will use bioinformatics tools to solve the exercises available on the platform (exercises similar to those found in Bioinformatics Stronghold).
 
-- [ ] #1 Introduction to the Bioinformatics Armory.py
+- [x] [#1 Introduction to the Bioinformatics Armory.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Armory/%231%20Introduction%20to%20the%20Bioinformatics%20Armory.py)
 - [ ] #2 Introduction to Protein Databases.py
 - [ ] #3 GenBank Introduction.py
 - [ ] #4 Data Formats.py
