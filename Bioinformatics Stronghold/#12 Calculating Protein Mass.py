@@ -3,7 +3,7 @@ from collections import defaultdict
 mass_content = dict()
 
 # Creating monoisotopic mass dictionary
-with open("mass_table.txt") as monoisotopic_mass_dict:
+with open("monoisotopic_mass_table.txt") as monoisotopic_mass_dict:
     '''
     The monoisotopic mass table for amino acids is a 
     table listing the mass of each possible amino acid 
