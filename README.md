@@ -32,8 +32,8 @@ E-mail: felipe.vzps@gmail.com
 - [ ] #10 Inferring mRNA from Protein.py
 - [x] [#11 Enumerating Gene Orders.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2311%20Enumerating%20Gene%20Orders.py)
 - [x] [#12 Calculating Protein Mass.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2312%20Calculating%20Protein%20Mass.py)
-- [x] [#13 RNA Splicing](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2313%20RNA%20Splicing.py)
-- [ ] #14 Rabbits and Recurrence Relations
+- [x] [#13 RNA Splicing.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2313%20RNA%20Splicing.py)
+- [ ] #14 Rabbits and Recurrence Relations.py
 - [ ] More solutions coming soon!
 
 **Bioinformatics Armory**: Hosts algorithms which I will use bioinformatics tools to solve the exercises available on the platform (exercises similar to those found in Bioinformatics Stronghold).
