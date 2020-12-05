@@ -33,13 +33,13 @@ E-mail: felipe.vzps@gmail.com
 - [x] [#11 Enumerating Gene Orders.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2311%20Enumerating%20Gene%20Orders.py)
 - [x] [#12 Calculating Protein Mass.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2312%20Calculating%20Protein%20Mass.py)
 - [x] [#13 RNA Splicing.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2313%20RNA%20Splicing.py)
-- [ ] [#14 Rabbits and Recurrence Relations.py]
+- [ ] #14 Rabbits and Recurrence Relations.py
 - [ ] More solutions coming soon!
 
 **Bioinformatics Armory**: Hosts algorithms which I will use bioinformatics tools to solve the exercises available on the platform (exercises similar to those found in Bioinformatics Stronghold).
 
 - [x] [#1 Introduction to the Bioinformatics Armory.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Armory/%231%20Introduction%20to%20the%20Bioinformatics%20Armory.py)
-- [ ] #2 Introduction to Protein Databases.py
+- [ ] [#2 Introduction to Protein Databases.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Armory/%232%20Introduction%20to%20Protein%20Databases.py)
 - [ ] #3 GenBank Introduction.py
 - [ ] #4 Data Formats.py
 - [ ] #5 New Motif Discovery.py
