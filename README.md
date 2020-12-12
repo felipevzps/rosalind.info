@@ -40,7 +40,7 @@ E-mail: felipe.vzps@gmail.com
 
 - [x] [#1 Introduction to the Bioinformatics Armory.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Armory/%231%20Introduction%20to%20the%20Bioinformatics%20Armory.py)
 - [ ] [#2 Introduction to Protein Databases.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Armory/%232%20Introduction%20to%20Protein%20Databases.py)
-- [ ] #3 GenBank Introduction.py
+- [ ] [#3 GenBank Introduction.py]
 - [ ] #4 Data Formats.py
 - [ ] #5 New Motif Discovery.py
 - [ ] #6 Pairwise Global Alignment.py
