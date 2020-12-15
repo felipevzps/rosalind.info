@@ -42,7 +42,7 @@ E-mail: felipe.vzps@gmail.com
 - [ ] [#2 Introduction to Protein Databases.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Armory/%232%20Introduction%20to%20Protein%20Databases.py)
 - [ ] [#3 GenBank Introduction.py]
 - [ ] [#4 Data Formats.py]
-- [ ] #5 New Motif Discovery.py
+- [ ] [#5 New Motif Discovery.py]
 - [ ] #6 Pairwise Global Alignment.py
 - [ ] #7 FASTQ format introduction.py
 - [ ] #8 Read Quality Distribution.py
