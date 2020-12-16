@@ -28,7 +28,7 @@ E-mail: felipe.vzps@gmail.com
 - [x] [#6 Translating RNA into Protein.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%236%20Translating%20RNA%20into%20Protein.py)
 - [x] [#7 Rabbits and Recurrence Relations.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%237%20Finding%20a%20Motif%20in%20DNA.py)
 - [ ] [#8 Mendel's First Law.py]
-- [ ] #9 Finding a Motif in DNA.py
+- [ ] [#9 Finding a Motif in DNA.py]
 - [ ] #10 Inferring mRNA from Protein.py
 - [x] [#11 Enumerating Gene Orders.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2311%20Enumerating%20Gene%20Orders.py)
 - [x] [#12 Calculating Protein Mass.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2312%20Calculating%20Protein%20Mass.py)
