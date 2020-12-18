@@ -43,7 +43,7 @@ E-mail: felipe.vzps@gmail.com
 - [ ] [#3 GenBank Introduction.py]
 - [ ] [#4 Data Formats.py]
 - [ ] [#5 New Motif Discovery.py]
-- [ ] #6 Pairwise Global Alignment.py
+- [ ] [#6 Pairwise Global Alignment.py]
 - [ ] #7 FASTQ format introduction.py
 - [ ] #8 Read Quality Distribution.py
 - [ ] #9 Protein Translation.py
