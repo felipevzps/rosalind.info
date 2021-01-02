@@ -1,5 +1,5 @@
-arquivo = open('/home/felipe/Documentos/vscode/Rosalind/rosalind_revc.txt', 'r')
-string = arquivo.read()
+file = open('/home/felipe/Documentos/vscode/Rosalind/rosalind_revc.txt', 'r')
+string = file.read()
 
 #fwd = AAAACCCGGT
 #rvs_complement = TTTTGGGCCA -> ACCGGGTTTT
