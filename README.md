@@ -23,17 +23,24 @@ E-mail: felipe.vzps@gmail.com
 - [x] [#1 Counting DNA Nucleotides.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%231.1%20Counting%20DNA%20Nucleotides.py)
 - [x] [#2 Transcribing DNA into RNA.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%232%20Transcribing%20DNA%20into%20RNA.py)
 - [x] [#3 Complementing a Strand of DNA.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%233%20Complementing%20a%20Strand%20of%20DNA.py)
-- [x] [#4 Computing GC Content.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%234%20Computing%20GC%20Content.py)
-- [x] [#5 Counting Point Mutations.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%235%20Counting%20Point%20Mutations.py)
-- [x] [#6 Translating RNA into Protein.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%236%20Translating%20RNA%20into%20Protein.py)
-- [x] [#7 Rabbits and Recurrence Relations.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%237%20Finding%20a%20Motif%20in%20DNA.py)
-- [ ] [#8 Mendel's First Law.py]
+- [ ] #4 Rabbits and Recurrence Relations.py
+- [x] [#5 Computing GC Content.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%234%20Computing%20GC%20Content.py)
+- [x] [#6 Counting Point Mutations.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%235%20Counting%20Point%20Mutations.py)
+- [ ] #7 Mendel's First Law
+- [x] [#8 Translating RNA into Protein.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%236%20Translating%20RNA%20into%20Protein.py)
 - [ ] [#9 Finding a Motif in DNA.py]
-- [ ] #10 Inferring mRNA from Protein.py
-- [x] [#11 Enumerating Gene Orders.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2311%20Enumerating%20Gene%20Orders.py)
-- [x] [#12 Calculating Protein Mass.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2312%20Calculating%20Protein%20Mass.py)
-- [x] [#13 RNA Splicing.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2313%20RNA%20Splicing.py)
-- [ ] #14 Rabbits and Recurrence Relations.py
+- [ ] #10 Consensus and Profile
+- [ ] #11 Mortal Fibonacci Rabbits
+- [ ] #12 Overlap Graphs
+- [ ] #13 Calculating Expected Offspring
+- [ ] #14 Finding a Shared Motif
+- [ ] #15 Independent Alleles
+- [ ] #16 Finding a Protein Motif
+- [ ] #17 Inferring mRNA from Protein
+- [ ] #18 Open Reading Frames
+- [x] [#19 Enumerating Gene Orders.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2311%20Enumerating%20Gene%20Orders.py)
+- [x] [#20 Calculating Protein Mass.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2312%20Calculating%20Protein%20Mass.py)
+- [x] [#21 RNA Splicing.py](https://github.com/felipevzps/rosalind.info/blob/master/Bioinformatics%20Stronghold/%2313%20RNA%20Splicing.py)
 - [ ] More solutions coming soon!
 
 **Bioinformatics Armory**: Hosts algorithms which I will use bioinformatics tools to solve the exercises available on the platform (exercises similar to those found in Bioinformatics Stronghold).
