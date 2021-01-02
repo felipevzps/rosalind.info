@@ -36,8 +36,8 @@ with open("monoisotopic_mass_table.txt") as monoisotopic_mass_dict:
 
 count_mass = 0
 # Opening sequence file and calculating the protein mass
-with open("teste.txt", "r") as teste:
-    string = teste.read().strip()
+with open("test.txt", "r") as test:
+    string = test.read().strip()
     for i in string:
         if i in mass_content.keys():
         # Getting i.values()
