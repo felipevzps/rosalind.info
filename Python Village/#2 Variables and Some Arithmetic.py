@@ -1,4 +1,4 @@
-data=open('/home/felipe/Downloads/rosalind_ini2.txt','r',)
+data=open('data/rosalind_ini2.txt','r',)
 numbers=data.read()
 splited=numbers.split()
 print(splited)

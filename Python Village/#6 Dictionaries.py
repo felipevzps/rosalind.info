@@ -1,18 +1,17 @@
-text=open('Python Village/rosalind_ini6.txt','r')
+text=open('data/rosalind_ini6.txt','r')
 
-ocurrences = {}
+ocurrence = {}
 data = []
 
 #Split words
 for i in text:
     data = i.split()
-#print(data)
 
-#Count words ocurrences
+#Count word ocurrence
 for word in data:
-    ocurrences[word] = ocurrences.get(word, 0) + 1   
+    ocurrence[word] = ocurrence.get(word, 0) + 1   
 #print(ocurrences)
 
 #Print solution requested format
-for k,v in ocurrences.items():
+for k,v in ocurrence.items():
     print(k, v)

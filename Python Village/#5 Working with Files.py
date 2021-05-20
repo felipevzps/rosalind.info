@@ -1,4 +1,4 @@
-lines=open('/home/felipe/Downloads/rosalind_ini5.txt','r')
+lines=open('data/rosalind_ini5.txt','r')
 read_lines=lines.readlines()
 i = 0
 for line in read_lines:
