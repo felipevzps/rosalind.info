@@ -2,8 +2,8 @@ from collections import defaultdict
 
 mass_content = dict()
 
-# Creating monoisotopic mass dictionary
-with open("monoisotopic_mass_table.txt") as monoisotopic_mass_dict:
+#Creating monoisotopic mass dictionary
+with open("data/monoisotopic_mass_table.txt") as monoisotopic_mass_dict:
     '''
     The monoisotopic mass table for amino acids is a 
     table listing the mass of each possible amino acid 
@@ -35,12 +35,12 @@ with open("monoisotopic_mass_table.txt") as monoisotopic_mass_dict:
         mass_content[line.split()[0]] = float(line.split()[1])
 
 count_mass = 0
-# Opening sequence file and calculating the protein mass
-with open("test.txt", "r") as test:
-    string = test.read().strip()
+#Opening sequence file and calculating the protein mass
+with open("data/rosalind_prtm.txt", "r") as sampleInput:
+    string = sampleInput.read().strip()
     for i in string:
         if i in mass_content.keys():
-        # Getting i.values()
+        #Getting i.values()
             count_mass += mass_content.get(i)
 
 print(count_mass)
