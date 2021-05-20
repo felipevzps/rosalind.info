@@ -2,8 +2,8 @@ counter = -1
 diff = 0
 seq_list = []
 
-with open("rosalind_hamm.txt", "r") as sequences:
-    # read sequences file and split lines without '\n'
+with open("data/rosalind_hamm.txt", "r") as sequences:
+    #read sequences from the file and split lines without '\n'
     for seq in sequences.read().splitlines():
         seq_list.append(seq)
 

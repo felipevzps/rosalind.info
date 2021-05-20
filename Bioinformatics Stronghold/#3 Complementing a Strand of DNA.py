@@ -1,8 +1,8 @@
-file = open('/home/felipe/Documentos/vscode/Rosalind/rosalind_revc.txt', 'r')
+file = open('data/rosalind_revc.txt', 'r')
 string = file.read()
 
-#fwd = AAAACCCGGT
-#rvs_complement = TTTTGGGCCA -> ACCGGGTTTT
+#input =  AAAACCCGGT
+#output = TTTTGGGCCA -> ACCGGGTTTT (reverse complement of input)
 
 #Checking ASCII table https://www.asciitable.xyz/
 #A = 65
@@ -10,6 +10,7 @@ string = file.read()
 #C = 67
 #G = 71
 
+#Using translate 
 table = {65:84, 84:65, 67:71, 71:67}
 complement = string.translate(table)
 
